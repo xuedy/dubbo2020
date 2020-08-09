@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7351f95-c992-4030-8e30-303756e16de8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fotUcGbTsUL1k6l8LG1T0ldP9r" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbo" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.springcloulddubboserver" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springclouddubboclient" />
+      <recent name="org.example" />
+      <recent name="com.example.springcloulddubboclient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringClouldDubboServerApplication">
+    <configuration name="SpringCloudDubboClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-dubbo-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springclouddubboclient.SpringCloudDubboClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClouldDubboClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-clould-dubbo-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloulddubboclient.SpringClouldDubboClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClouldDubboServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-clould-dubbo-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloulddubboserver.SpringClouldDubboServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7351f95-c992-4030-8e30-303756e16de8" name="Default Changelist" comment="" />
+      <created>1596896289073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596896289073</updated>
+      <workItem from="1596896292715" duration="14197000" />
+      <workItem from="1596946364593" duration="5194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="378" width="610" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596897448001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="378" width="610" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1596897448001" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596959933327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596959933327" />
+    <state width="1904" height="286" key="GridCell.Tab.0.bottom" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.0.center" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.0.left" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.0.right" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.1.bottom" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.1.center" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.1.left" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1904" height="286" key="GridCell.Tab.1.right" timestamp="1596963973112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="286" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596963973112" />
+    <state width="1905" height="353" key="GridCell.Tab.2.bottom" timestamp="1596943364392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1905" height="353" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596943364392" />
+    <state width="1905" height="353" key="GridCell.Tab.2.center" timestamp="1596943364392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1905" height="353" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596943364392" />
+    <state width="1905" height="353" key="GridCell.Tab.2.left" timestamp="1596943364392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1905" height="353" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596943364392" />
+    <state width="1905" height="353" key="GridCell.Tab.2.right" timestamp="1596943364392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1905" height="353" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596943364392" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1596952191433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596952191433" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596951543245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596951543245" />
+    <state x="334" y="214" key="new project wizard" timestamp="1596943144444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596943144444" />
+  </component>
+</project>

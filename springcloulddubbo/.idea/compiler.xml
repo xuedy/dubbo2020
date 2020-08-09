@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-clould-dubbo-server" />
+        <module name="spring-cloud-dubbo-server-api" />
+        <module name="spring-cloud-dubbo-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-clould-dubbo-client" target="1.7" />
+      <module name="spring-clould-dubbo-server-api" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-dubbo-client" options="" />
+      <module name="spring-clould-dubbo-client" options="" />
+      <module name="spring-clould-dubbo-server" options="" />
+    </option>
+  </component>
+</project>

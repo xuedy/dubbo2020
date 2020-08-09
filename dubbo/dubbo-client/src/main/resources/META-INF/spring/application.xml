@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans        http://www.springframework.org/schema/beans/spring-beans-4.3.xsd        http://dubbo.apache.org/schema/dubbo        http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
+
+    <dubbo:application name="dubbo-client"></dubbo:application>
+    <!--    本地-->
+    <!--    <dubbo:registry address="N/A"></dubbo:registry>-->
+    <!--    <dubbo:reference id="login" interface="org.example.service.ILoginService"-->
+    <!--                     url="dubbo://10.1.168.95:20880/org.example.service.ILoginService"></dubbo:reference>-->
+    <!--    ZK-->
+    <!--    <dubbo:registry address="zookeeper://127.0.0.1:2181"></dubbo:registry>-->
+    <!--    Nacos-->
+    <dubbo:registry address="nacos://127.0.0.1:8848"></dubbo:registry>
+
+    <dubbo:reference id="login" interface="org.example.service.ILoginService"
+                    ></dubbo:reference>
+
+
+</beans>
