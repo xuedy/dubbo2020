@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class TestController {
-
-    @DubboReference(registry = {"shanghai","beijing"} ,version = "V2.0")
+    //loadbalance:random,roundrobin,一致性hash hash 环， 0~2^23-1,并添加虚拟节点
+    @DubboReference(registry = {"shanghai","beijing"} ,protocol = "dubbo",loadbalance = "random",version = "V2.0")
     ILoginService loginService;
 
     @GetMapping("/login")

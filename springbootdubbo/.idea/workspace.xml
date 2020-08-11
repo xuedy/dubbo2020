@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0250d37c-4443-4f3c-9a65-56526da525d7" name="Default Changelist" comment="" />
+    <list default="true" id="0250d37c-4443-4f3c-9a65-56526da525d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloulddubbo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/src/main/java/org/example/ILoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server-api/src/main/java/org/example/ILoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/LoginServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/LoginServiceImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloulddubbo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloulddubbo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1foTgAUcCcSgAuEDI8aNZXWyu9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +41,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -76,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596883553875</updated>
       <workItem from="1596883557470" duration="2727000" />
-      <workItem from="1596957832680" duration="5607000" />
+      <workItem from="1596957832680" duration="9644000" />
     </task>
     <servers />
   </component>
@@ -92,38 +109,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596896044201" />
-    <state width="1921" height="363" key="GridCell.Tab.0.bottom" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.0.bottom" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.0.center" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.0.center" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.0.left" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.0.left" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.0.right" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.0.right" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.1.bottom" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.1.bottom" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.1.center" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.1.center" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.1.left" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.1.left" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
-    <state width="1921" height="363" key="GridCell.Tab.1.right" timestamp="1596963454833">
+    <state width="1921" height="363" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
+    <state width="1921" height="363" key="GridCell.Tab.1.right" timestamp="1597158500934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596963454833" />
+    <state width="1921" height="363" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597158500934" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1596960046608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

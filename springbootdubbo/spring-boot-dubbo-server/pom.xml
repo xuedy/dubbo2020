@@ -43,6 +43,7 @@
             <version>2.7.7</version>
             <type>pom</type>
         </dependency>
+        <!-- dubbo rest 协议-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>

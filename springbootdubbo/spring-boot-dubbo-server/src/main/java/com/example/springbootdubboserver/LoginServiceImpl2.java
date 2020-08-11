@@ -10,7 +10,7 @@ import org.example.ILoginService;
  * @description TODO
  * @date {DATE}{TIME}
  */
-@DubboService(registry = {"shanghai","beijing"} ,version="V2.0")
+@DubboService(registry = {"shanghai","beijing"} ,protocol = {"dubbo","rest"},version="V2.0")
 public class LoginServiceImpl2 implements ILoginService {
     @Override
     public String login(String name, String password) {
