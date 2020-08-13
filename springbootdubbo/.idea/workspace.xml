@@ -2,21 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0250d37c-4443-4f3c-9a65-56526da525d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/FallBackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/MockLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/SayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/SayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/base/BaseIDEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/CoverageConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/HealthQuestionsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/ProductConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/ProductTypeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/enums/CoverageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/enums/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/CoverageConfigRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/NotificationQuestionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductConfigRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductTypeConfigRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/system/SysProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/utils/AesCBCUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/java/com/example/springbootdubboclient/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/LoginServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/LoginServiceImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/spring-boot-dubbo-server-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +64,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/tools/apache-maven-3.3.9" />
+        <option name="localRepository" value="C:\Users\qsnp236\.m2\repository" />
+        <option name="mavenHome" value="D:/tools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Users\qsnp236\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -43,6 +77,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -51,17 +86,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springbootdubboserver.enums" />
+      <recent name="com.example.springbootdubboserver.utils" />
+      <recent name="com.example.springbootdubboserver.entity.base" />
       <recent name="com.example.springbootdubboserver" />
       <recent name="com.example.springbootdubboclient" />
-      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dubbo\springbootdubbo\spring-boot-dubbo-server\src\main\java\com\example\springbootdubboserver\repository\config" />
+      <recent name="D:\dubbo\springbootdubbo\spring-boot-dubbo-server\src\main\java\com\example\springbootdubboserver" />
+      <recent name="D:\dubbo\springbootdubbo\spring-boot-dubbo-server\src\main\java\com\example\springbootdubboserver\entity\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDubboClientApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootDubboServerApplication">
     <configuration name="SpringBootDubboClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-dubbo-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdubboclient.SpringBootDubboClientApplication" />
@@ -82,7 +131,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -101,6 +160,9 @@
       <updated>1596883553875</updated>
       <workItem from="1596883557470" duration="2727000" />
       <workItem from="1596957832680" duration="13366000" />
+      <workItem from="1597200524913" duration="1185000" />
+      <workItem from="1597203448824" duration="7914000" />
+      <workItem from="1597306574018" duration="4409000" />
     </task>
     <servers />
   </component>
@@ -108,6 +170,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Assign_Data_Sources" timestamp="1597309961875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1597309961875" />
+    <state x="552" y="177" key="#Custom_Plugin_Repositories" timestamp="1597306330219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1597306330219" />
+    <state x="800" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597309951538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597309951538" />
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1597161075361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,50 +190,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596885704101" />
-    <state x="739" y="267" key="FileChooserDialogImpl" timestamp="1596896044201">
+    <state x="739" y="267" key="FileChooserDialogImpl" timestamp="1597306903550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596896044201" />
-    <state width="1921" height="363" key="GridCell.Tab.0.bottom" timestamp="1597161627997">
+    <state x="739" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597306903550" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1597310770260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.0.center" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770260" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1597310770259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.0.left" timestamp="1597161627996">
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770259" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1597310770259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627996" />
-    <state width="1921" height="363" key="GridCell.Tab.0.right" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770259" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1597310770259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.1.bottom" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770259" />
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom" timestamp="1597310770260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.1.center" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770260" />
+    <state width="1293" height="282" key="GridCell.Tab.1.center" timestamp="1597310770260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.1.left" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770260" />
+    <state width="1293" height="282" key="GridCell.Tab.1.left" timestamp="1597310770260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state width="1921" height="363" key="GridCell.Tab.1.right" timestamp="1597161627997">
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770260" />
+    <state width="1293" height="282" key="GridCell.Tab.1.right" timestamp="1597310770260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="363" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597161627997" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1596960046608">
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597310770260" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1597309563046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596960046608" />
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1597309563046" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1597307485461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597307485461" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597306575973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597306575973" />
     <state x="334" y="214" key="new project wizard" timestamp="1596896044812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596896044812" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597222804147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597222804147" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597161042831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
