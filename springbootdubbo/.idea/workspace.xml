@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0250d37c-4443-4f3c-9a65-56526da525d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/base/BaseIDEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/CoverageConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/HealthQuestionsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/ProductConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/entity/config/ProductTypeConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/enums/CoverageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/CoverageConfigRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/NotificationQuestionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductConfigRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductTypeConfigRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/system/SysProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/utils/AesCBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/service/base/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/service/base/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/service/base/ServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/service/config/ProductTypeConfigService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/service/config/impl/ProductTypeConfigServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-client/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server-api/spring-boot-dubbo-server-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductTypeConfigRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-dubbo-server/src/main/java/com/example/springbootdubboserver/repository/config/ProductTypeConfigRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +141,7 @@
       <workItem from="1596957832680" duration="13366000" />
       <workItem from="1597200524913" duration="1185000" />
       <workItem from="1597203448824" duration="7914000" />
-      <workItem from="1597306574018" duration="4409000" />
+      <workItem from="1597306574018" duration="5433000" />
     </task>
     <servers />
   </component>
@@ -182,10 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597309951538" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1597161075361">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1597311873146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597161075361" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597311873146" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596885704101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
